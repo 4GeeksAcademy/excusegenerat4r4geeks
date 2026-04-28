@@ -1,5 +1,19 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: black;
+    
 }
+
+.p1{
+    color: rgb(1, 70, 1);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 100vh;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;    
+}
+
+
